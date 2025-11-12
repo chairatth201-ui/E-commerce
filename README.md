@@ -1,5 +1,7 @@
 # E-commerce
 เว็บไซต์ E-Commerce
+
+
 <?php
 session_start();
 if (empty($_SESSION['admin'])) {  // กันเข้าตรงถ้ายังไม่ล็อกอินแอดมิน
